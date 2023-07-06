@@ -14,7 +14,7 @@ Pseudo code:
         sort(arr,MID+1,l)
         Merge(arr,f+MID+l)
 }
- *merge end 
+ *merge sort end 
 
 
 
