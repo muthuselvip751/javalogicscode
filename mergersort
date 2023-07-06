@@ -1,4 +1,4 @@
-1)Question
+1)Question:  qstn
 Given an array of size n, sort the array using Merge Sort.
 
 devide and conqueue
@@ -14,7 +14,7 @@ Pseudo code:
         sort(arr,MID+1,l)
         Merge(arr,f+MID+l)
 }
- *merge sort end 
+ *merge sort end
 
 
 
